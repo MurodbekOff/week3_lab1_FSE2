@@ -7,4 +7,6 @@ add_executable(Week3_lab1_FSE2 problem1.cpp
         problem2.cpp
         problem3.cpp
         problem4.cpp
-        template.cpp)
+        template.cpp
+        problem5.cpp
+        problem6.cpp)
